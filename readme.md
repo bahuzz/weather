@@ -1,0 +1,1 @@
+JS app to get weather by city name using OpenWeatherMap API
